@@ -1,0 +1,27 @@
+Filetype: IR signals file
+Version: 1
+name: F_Power
+type: parsed
+protocol: NEC
+address: 80 00 00 00
+command: 01 00 00 00
+name: F_Low
+type: parsed
+protocol: NEC
+address: 80 00 00 00
+command: 06 00 00 00
+name: F_Medium
+type: parsed
+protocol: NEC
+address: 80 00 00 00
+command: 03 00 00 00
+name: F_High
+type: parsed
+protocol: NEC
+address: 80 00 00 00
+command: 02 00 00 00
+name: F_Swing
+type: parsed
+protocol: NEC
+address: 80 00 00 00
+command: 1A 00 00 00
